@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="aaa" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>Open Bible Stories (aaa) [Door43]</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.door43.org"]);
+  _paq.push(["setDomains", ["*.door43.org"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://piwik.door43.org/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="http://piwik.door43.org/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+<meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="aaa,obs"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title="Door43"/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/aaa/obs?do=index" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns=aaa"/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/_export/xhtml/aaa/obs"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/_export/raw/aaa/obs"/>
+<link rel="canonical" href="https://door43.org/aaa/obs"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=door43&amp;tseed=73d0b2dc807b350f83864701aa1baf1a"/>
+<link type="text/css" rel="stylesheet" media="screen" href="//fonts.googleapis.com/css?family=Lato:400,700&amp;subset=latin,latin-ext"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='aaa';var JSINFO = {"id":"aaa:obs","namespace":"aaa","confirm_delete":"Are you sure you want to delete this page?","doku_base":"\/","move_renameokay":false,"htmlok":1};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?t=door43&amp;tseed=73d0b2dc807b350f83864701aa1baf1a"></script>
+<script type="text/javascript" charset="utf-8"></script>
+<style type="text/css" media="screen"> { font-family: 'Lato', serif; }</style>
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+    function LoadScript( url )
+    {
+     document.write( '<scr' + 'ipt type="text/javascript" src="' + url + '"><\/scr' + 'ipt>' ) ;        
+
+    }
+   function LoadScriptDefer( url )
+    {
+     document.write( '<scr' + 'ipt type="text/javascript" src="' + url + '" defer><\/scr' + 'ipt>' ) ;        
+
+    }
+//]]> 
+
+ </script>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/_media/wiki/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/door43/images/apple-touch-icon.png" />
+    </head>
+
+<body>
+    <!--[if lte IE 8 ]><div id="IE8"><![endif]-->
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_show tpl_door43    showSidebar hasSidebar">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">skip to content</a></li>
+        </ul>
+
+        <h1><a href="/home"  accesskey="h" title="[H]"><img src="/_media/wiki/logo.png" width="64" height="64" alt="" /> <span>Door43</span></a></h1>
+                    <p class="claim">open-licensed biblical content</p>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">User Tools</h3>
+                <ul>
+                    <li><a href="/aaa/obs?do=register"  class="action register" rel="nofollow" title="Register">Register</a></li><li><a href="/aaa/obs?do=login&amp;sectok=4d25aea1759f8c4b635e279351804db3"  class="action login" rel="nofollow" title="Login">Login</a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Site Tools</h3>
+            <form action="/home" accept-charset="utf-8" class="search" id="dw__search" method="get" role="search"><div class="no"><input type="hidden" name="do" value="search" /><input type="text" placeholder="Search" id="qsearch__in" accesskey="f" name="id" class="edit" title="[F]" /><button type="submit" title="Search">Search</button><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="aaa:obs" /><select name="do" class="edit quickselect" title="Tools"><option value="">Tools</option><optgroup label="Page Tools"><option value="edit">Show pagesource</option><option value="revisions">Old revisions</option><option value="backlink">Backlinks</option></optgroup><optgroup label="Site Tools"><option value="recent">Recent changes</option><option value="media">Media Manager</option><option value="index">Sitemap</option></optgroup><optgroup label="User Tools"><option value="login">Login</option><option value="register">Register</option></optgroup></select><button type="submit">&gt;</button></div></form>            </div>
+            <ul>
+                <li><a href="/aaa/obs?do=recent"  class="action recent" accesskey="r" rel="nofollow" title="Recent changes [R]">Recent changes</a></li><li><a href="/aaa/obs?do=media&amp;ns=aaa"  class="action media" rel="nofollow" title="Media Manager">Media Manager</a></li><li><a href="/aaa/obs?do=index"  class="action index" accesskey="x" rel="nofollow" title="Sitemap [X]">Sitemap</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                            <div class="youarehere"><span class="bchead">You are here </span><span class="home"><bdi><a href="/home" class="wikilink1" title="home">home</a></bdi></span> » <bdi><a href="/aaa/home" class="wikilink1" title="aaa:home">Door43 (aaa)</a></bdi> » <bdi><span class="curid"><a href="/aaa/obs" class="wikilink1" title="aaa:obs">Open Bible Stories (aaa)</a></span></bdi></div>
+                                </div>
+    
+
+
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+                            <!-- ********** ASIDE ********** -->
+                <div id="dokuwiki__aside"><div class="pad aside include group">
+                    <h3 class="toggle">Sidebar</h3>
+                    <div class="content"><div class="group">
+                        <div class="plugin_door43translation" style="width: 100%; box-sizing: border-box;"><input type="hidden" id="namespace-auto-complete-action" value="obs">
+<input type="text" id="namespace-auto-complete" name="id" style="width: 100%" class="wikilink1" placeholder="" data-language-selector="1">
+<script type="text/javascript">
+jQuery().ready(function() {
+var namespaceAutoComplete = jQuery('#namespace-auto-complete');
+
+namespaceAutoComplete.on('autocompleteclose', function() {
+
+    var langText = jQuery(this).val();
+    if (!langText) return;
+
+    // if closed without picking from the list, do nothing
+    if (langText.indexOf(')') < 3) return;
+
+    var langCodes = langText.match(/\(([a-z0-9-]+)\)$/i);
+
+    if ((!langCodes) || (langCodes.length !== 2)) return;
+
+    translationSelectNamespace(langCodes[1], langText);
+});
+
+namespaceAutoComplete.on('keyup', function(event) {
+
+    if (event.which !== 13) return;
+
+    var $this = jQuery(this);
+    var id = $this.val();
+
+    // look up the language description from the auto-complete list
+    var source = $this.autocomplete('option', 'source');
+    if (source) {
+         var matches = jQuery.grep(source, function (s) {
+            return s.indexOf('(' + id + ')') > -1;
+        });
+
+        if (matches.length > 0) {
+            translationSelectNamespace(id, matches[0]);
+        }
+    }
+});
+
+/**
+ *
+ * @param langIso The official ISO code for the language
+ * @param langText The user-friendly text description of the language
+ */
+function translationSelectNamespace(langIso, langText) {
+
+    // if the namespace didn't change, do nothing
+    if (NS && (langIso === NS)) return;
+
+    saveNamespace(langIso, langText);
+
+    var action = jQuery('#namespace-auto-complete-action').val();
+    var pos = action.indexOf(':');
+    if (pos > -1) action = action.substr(pos + 1);
+
+    window.location.href = DOKU_BASE + langIso + '/' + action;
+}
+});
+</script>
+<div>
+    <input type="hidden" id="door43CurrentLanguage" value="aaa:Ghotuo">
+    <ul id="door43RecentLanguageList">
+    </ul>
+</div>
+</div>                                                <hr />
+
+<p>
+
+<strong>Door43</strong>
+</p>
+<ul>
+<li class="level1"><div class="li"> <a href="/aaa/home" class="wikilink1" title="aaa:home">Door43 (aaa)</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/en/license" class="wikilink1" title="en:license">License</a></div>
+</li>
+</ul>
+
+<p>
+<strong>Downloads</strong>
+</p>
+
+<p>
+All content for this namespace is available in the <a href="https://github.com/Door43/d43-aaa" class="urlextern" target="_blank" title="https://github.com/Door43/d43-aaa"  rel="nofollow">d43-aaa repository</a>.  To download it as a zip file, click <a href="https://github.com/Door43/d43-aaa/archive/master.zip" class="urlextern" target="_blank" title="https://github.com/Door43/d43-aaa/archive/master.zip"  rel="nofollow">d43-aaa.zip</a>
+</p>
+
+<p>
+<strong>Recent Changes</strong>
+</p>
+
+<p>
+<strong>Language Information</strong>
+</p>
+
+<p>
+<a href="http://www.ethnologue.com/language/aaa" class="urlextern" target="_blank" title="http://www.ethnologue.com/language/aaa"  rel="nofollow">Ethnologue data</a>
+</p>
+
+<p>
+<strong>Resources</strong>
+</p>
+<ul>
+<li class="level1"><div class="li"> <span class="curid"><a href="/aaa/obs" class="wikilink1" title="aaa:obs">Open Bible Stories (aaa)</a></span></div>
+</li>
+</ul>
+                                            </div></div>
+                </div></div><!-- /aside -->
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+                
+                <div class="pageId"><span>aaa:obs</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    <div class="obs-checking toc"><p style="font-size: 0.875em; color: #666;">This resource has not yet been published to unfoldingWord. If it is completed, please submit the <a href="http://td.unfoldingword.org/publishing/publish/request/" target="_blank">Request to Publish</a> form.</p></div>
+<h1 class="sectionedit1" id="open-bible-stories-aaa">Open Bible Stories (aaa)</h1>
+<div class="level1">
+
+<p>
+Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. More information on how to get started translating Open Bible Stories is <a href="/en/obs/help" class="wikilink1" title="en:obs:help">here</a>, and useful information may also be found at <a href="/en/get-started" class="wikilink1" title="en:get-started">&quot;Getting Started&quot;</a> and <a href="/en/tips-tricks" class="wikilink1" title="en:tips-tricks">&quot;Tips &amp; Tricks&quot;</a>. If you need help, <a href="/contact" class="wikilink1" title="contact">just ask</a>!
+</p>
+
+</div>
+<div class="plugin_include_content plugin_include__aaa:obs:stories" id="plugin_include__aaa__obs__stories">
+<div class="level1">
+<ol>
+<li class="level1"><div class="li"> <a href="/aaa/obs/01" class="wikilink1" title="aaa:obs:01">The Creation</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/02" class="wikilink1" title="aaa:obs:02">Sin Enters the World</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/03" class="wikilink1" title="aaa:obs:03">The Flood</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/04" class="wikilink1" title="aaa:obs:04">God&#039;s Covenant with Abraham</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/05" class="wikilink1" title="aaa:obs:05">The Son of Promise</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/06" class="wikilink1" title="aaa:obs:06">God Provides for Isaac</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/07" class="wikilink1" title="aaa:obs:07">God Blesses Jacob</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/08" class="wikilink1" title="aaa:obs:08">God Saves Joseph and His Family</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/09" class="wikilink1" title="aaa:obs:09">God Calls Moses</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/10" class="wikilink1" title="aaa:obs:10">The Ten Plagues</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/11" class="wikilink1" title="aaa:obs:11">The Passover</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/12" class="wikilink1" title="aaa:obs:12">The Exodus</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/13" class="wikilink1" title="aaa:obs:13">God&#039;s Covenant with Israel</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/14" class="wikilink1" title="aaa:obs:14">Wandering in the Wilderness</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/15" class="wikilink1" title="aaa:obs:15">The Promised Land</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/16" class="wikilink1" title="aaa:obs:16">The Deliverers</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/17" class="wikilink1" title="aaa:obs:17">God&#039;s Covenant with David</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/18" class="wikilink1" title="aaa:obs:18">The Divided Kingdom</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/19" class="wikilink1" title="aaa:obs:19">The Prophets</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/20" class="wikilink1" title="aaa:obs:20">The Exile and Return</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/21" class="wikilink1" title="aaa:obs:21">God Promises the Messiah</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/22" class="wikilink1" title="aaa:obs:22">The Birth of John</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/23" class="wikilink1" title="aaa:obs:23">The Birth of Jesus</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/24" class="wikilink1" title="aaa:obs:24">John Baptizes Jesus</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/25" class="wikilink1" title="aaa:obs:25">Satan Tempts Jesus</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/26" class="wikilink1" title="aaa:obs:26">Jesus Starts His Ministry</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/27" class="wikilink1" title="aaa:obs:27">The Story of the Good Samaritan</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/28" class="wikilink1" title="aaa:obs:28">The Rich Young Ruler</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/29" class="wikilink1" title="aaa:obs:29">The Story of the Unmerciful Servant</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/30" class="wikilink1" title="aaa:obs:30">Jesus Feeds Five Thousand People</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/31" class="wikilink1" title="aaa:obs:31">Jesus Walks on Water</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/32" class="wikilink1" title="aaa:obs:32">Jesus Heals a Demon Possessed Man</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/33" class="wikilink1" title="aaa:obs:33">The Story of the Farmer</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/34" class="wikilink1" title="aaa:obs:34">Jesus Teaches Other Stories</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/35" class="wikilink1" title="aaa:obs:35">The Story of the Compassionate Father</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/36" class="wikilink1" title="aaa:obs:36">The Transfiguration</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/37" class="wikilink1" title="aaa:obs:37">Jesus Raises Lazarus from the Dead</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/38" class="wikilink1" title="aaa:obs:38">Jesus Is Betrayed</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/39" class="wikilink1" title="aaa:obs:39">Jesus Is Put on Trial</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/40" class="wikilink1" title="aaa:obs:40">Jesus Is Crucified</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/41" class="wikilink1" title="aaa:obs:41">God Raises Jesus from the Dead</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/42" class="wikilink1" title="aaa:obs:42">Jesus Returns to Heaven</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/43" class="wikilink1" title="aaa:obs:43">The Church Begins</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/44" class="wikilink1" title="aaa:obs:44">Peter and John Heal a Beggar</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/45" class="wikilink1" title="aaa:obs:45">Philip and the Ethiopian Official</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/46" class="wikilink1" title="aaa:obs:46">Paul Becomes a Christian</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/47" class="wikilink1" title="aaa:obs:47">Paul and Silas in Philippi</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/48" class="wikilink1" title="aaa:obs:48">Jesus is the Promised Messiah</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/49" class="wikilink1" title="aaa:obs:49">God&#039;s New Covenant</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/50" class="wikilink1" title="aaa:obs:50">Jesus Returns</a></div>
+</li>
+</ol>
+<ul>
+<li class="level1"><div class="li"> <a href="/aaa/obs/front-matter" class="wikilink1" title="aaa:obs:front-matter">Front Matter</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/back-matter" class="wikilink1" title="aaa:obs:back-matter">Back Matter</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/aaa/obs/app_words" class="wikilink1" title="aaa:obs:app_words">Mobile App Words</a></div>
+</li>
+</ul>
+
+</div>
+</div>
+<div class="level1">
+
+</div>
+<div class="plugin_include_content plugin_include__en:obs:active" id="plugin_include__en__obs__active">
+
+<h2 class="sectionedit7" id="translations">Translations</h2>
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> <a href="/abp/obs" class="wikilink1" title="abp:obs">Ayta Abellen</a> – <em>in progress</em></div>
+</li>
+<li class="level2"><div class="li"> <a href="/az/obs" class="wikilink1" title="az:obs">Azərbaycan dili</a> – <em>in progress</em></div>
+</li>
+<li class="level2"><div class="li"> <a href="/blx/obs" class="wikilink1" title="blx:obs">Ayta Mag-Indi</a> – <em>in progress</em></div>
+</li>
+<li class="level2"><div class="li"> <a href="/cnh/obs" class="wikilink1" title="cnh:obs">Chin, Haka</a> – <strong>first draft complete</strong></div>
+</li>
+<li class="level2"><div class="li"> <a href="/en/obs" class="wikilink1" title="en:obs">English</a> – <strong>complete - checked to Level 3</strong></div>
+</li>
+<li class="level2"><div class="li"> <a href="/es/obs" class="wikilink1" title="es:obs">Español</a> – <strong>first draft complete</strong></div>
+</li>
+<li class="level2"><div class="li"> <a href="/fa/obs" class="wikilink1" title="fa:obs">فارسی</a> – <strong>first draft complete</strong></div>
+</li>
+<li class="level2"><div class="li"> <a href="/fr/obs" class="wikilink1" title="fr:obs">Français</a> – <strong>complete - checked to Level 1</strong></div>
+</li>
+<li class="level2"><div class="li"> <a href="/id/obs" class="wikilink1" title="id:obs">Bahasa Indonesia</a> – <em>in progress</em></div>
+</li>
+<li class="level2"><div class="li"> <a href="/ilo/obs" class="wikilink1" title="ilo:obs">Ilokano</a> – <em>in progress</em></div>
+</li>
+<li class="level2"><div class="li"> <a href="/ms/obs" class="wikilink1" title="ms:obs">Bahasa Melayu</a> – <strong>first draft complete</strong></div>
+</li>
+<li class="level2"><div class="li"> <a href="/nl/obs" class="wikilink1" title="nl:obs">Nederlands</a> – <em>in progress</em></div>
+</li>
+<li class="level2"><div class="li"> <a href="/pt-br/obs" class="wikilink1" title="pt-br:obs">Português do Brasil</a> – <strong>complete - checked to Level 2</strong></div>
+</li>
+<li class="level2"><div class="li"> <a href="/ru/obs" class="wikilink1" title="ru:obs">Русский</a> – <strong>first draft complete</strong></div>
+</li>
+<li class="level2"><div class="li"> <a href="/sw/obs" class="wikilink1" title="sw:obs">Kiswahili</a> – <em>in progress</em></div>
+</li>
+<li class="level2"><div class="li"> <a href="/wo/obs" class="wikilink1" title="wo:obs">Woloff</a> - <em>in progress</em></div>
+</li>
+<li class="level2"><div class="li"> <a href="/xmf/obs" class="wikilink1" title="xmf:obs">მარგალური</a> – <em>in progress</em></div>
+</li>
+<li class="level2"><div class="li"> <a href="/zh/obs" class="wikilink1" title="zh:obs">中文</a> - <em>in progress</em></div>
+</li>
+</ul>
+
+</div>
+</div>
+<div class="level1">
+
+</div>
+<script type="text/javascript">
+    jQuery().ready(function() {
+        setupExportClick();
+    });
+</script>
+<div id="door43ObsExportDiv" title="Export OBS Template" style="display: none">
+    <div id="door43ObsExportOptions" style="display: block; width: 100%"></div>
+    <div style="display: inline-block; position: absolute; right: 16px; bottom: 10px;">
+        <button onclick="exportSourceTemplate();">Save</button> <button onclick="closeExportDialog();">Cancel</button>
+    </div>
+</div>
+<div id="door43ObsImportDiv" title="Import DOCX file" style="display: none">
+    <div id="door43ObsImportOptions" style="display: block; width: 100%"></div>
+    <div style="display: inline-block; position: absolute; right: 16px; bottom: 10px;">
+        <button onclick="importSourceDocx();">Import</button> <button onclick="closeImportDialog();">Cancel</button>
+    </div>
+</div>
+
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+
+    try {
+    if(!window.HTMLParserInstalled || !HTMLParserInstalled){
+         LoadScript("https://door43.org/lib/plugins/ckgedit/scripts/script-cmpr.js");        
+    }
+    }
+    catch (ex) {  
+         LoadScript("https://door43.org/lib/plugins/ckgedit/scripts/script-cmpr.js");        
+    }             
+    if("") {
+       LoadScriptDefer("");        
+    }
+    function createRequestValue() {
+        try{
+        var inputNode=document.createElement('input');
+        inputNode.setAttribute('type','hidden');
+        inputNode.setAttribute('value','yes');
+        inputNode.setAttribute('name','dwedit_preview');
+        inputNode.setAttribute('id','dwedit_preview');
+        var dwform = GetE("dw__editform");
+        dwform.appendChild(inputNode);
+        }catch(e) { alert(e); }
+    }
+//]]> 
+ </script>
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo">
+  <a href="/_export/raw/aaa/obs"><img class="download" src="/lib/images/fileicons/txt.png" alt="Text Export"></a>&nbsp;
+  <a href="/_export/xhtmlbody/aaa/obs"><img class="download" src="/lib/images/fileicons/htm.png" alt="HTML Export"></a>&nbsp;
+  <a href="/_export/odt/aaa/obs"><img class="download" src="/lib/images/fileicons/odt.png" alt="ODT Export"></a><br />
+ 		  <bdi>aaa/obs.txt</bdi> · Last modified 2015-07-17 09:21 (external edit)                </div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Page Tools</h3>
+                <div class="tools">
+                    <ul>
+                        <li><a href="/aaa/obs?do=edit"  class="action source" accesskey="v" rel="nofollow" title="Show pagesource [V]"><span>Show pagesource</span></a></li><li><a href="/aaa/obs?do=revisions"  class="action revs" accesskey="o" rel="nofollow" title="Old revisions [O]"><span>Old revisions</span></a></li><li><a href="/aaa/obs?do=backlink"  class="action backlink" rel="nofollow" title="Backlinks"><span>Backlinks</span></a></li><li><a href="/aaa/obs?do=export_odt"  class="action export_odt" rel="nofollow" title="ODT export"><span>ODT export</span></a></li><li><a href="/aaa/obs?do=export_pdf"  class="action export_pdf" rel="nofollow" title="Export to PDF"><span>Export to PDF</span></a></li><li><a href="#dokuwiki__top"  class="action top" accesskey="t" rel="nofollow" title="Back to top [T]"><span>Back to top</span></a></li><li id="getObsTemplateBtn"><a href="#" class=" tx-export" rel="nofollow" ><span>Get template</span></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    <div class="license">Except where otherwise noted, content on this wiki is made available under this license: <bdi><a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="urlextern" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License </a></bdi></div>
+    <div class="buttons">
+        <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license" target="_blank"><img src="/lib/images/license/button/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike 4.0 International License " /></a>    </div>
+</div></div><!-- /footer -->
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=aaa%3Aobs&amp;1445543177" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div>    <!--[if lte IE 8 ]></div><![endif]-->
+</body>
+</html>
